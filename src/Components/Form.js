@@ -8,6 +8,8 @@ const Form = () => {
       <form>
       <label>Your Name</label>
         <input type="text"></input>
+        <label>Your Name</label>
+        <input type="text"></input>
         <label>Email</label>
         <input type="email"></input>
         <label>Subject</label>
